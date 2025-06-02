@@ -669,9 +669,9 @@ const testRecording = () => {
 ## Support & Resources
 
 ### Technical Support
-- **Email**: sdk-support@athelas.com
-- **Documentation**: [Developer Portal](https://developers.athelas.com)
-- **Status Page**: [System Status](https://status.athelas.com)
+- **Email**: 
+- **Documentation**: 
+- **Status Page**: 
 
 ### SDK Versioning
 - **Current Version**: 1.4.1
