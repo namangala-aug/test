@@ -106,7 +106,7 @@ Create a `.npmrc` file in your project root:
 
 ```bash
 @getathelas:registry=https://npm.pkg.github.com/
-//npm.pkg.github.com/:_authToken=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
+//npm.pkg.github.com/:_authToken={token}
 ```
 
 ### Package Installation
